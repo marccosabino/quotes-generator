@@ -1,0 +1,37 @@
+[
+  {
+    "author": "Marco Aurélio",
+    "category": "estoicismo",
+    "quote": "A felicidade da sua vida depende da qualidade dos seus pensamentos."
+  },
+  {
+    "author": "Sêneca",
+    "category": "estoicismo",
+    "quote": "Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis."
+  },
+  {
+    "author": "Alan Turing",
+    "category": "tecnologia",
+    "quote": "Às vezes são as pessoas de quem ninguém imagina nada que fazem as coisas que ninguém pode imaginar."
+  },
+  {
+    "author": "Grace Hopper",
+    "category": "tecnologia",
+    "quote": "A frase mais perigosa na linguagem é: 'Nós sempre fizemos assim'."
+  },
+  {
+    "author": "Albert Einstein",
+    "category": "ciência",
+    "quote": "A imaginação é mais importante que o conhecimento."
+  },
+  {
+    "author": "Marie Curie",
+    "category": "ciência",
+    "quote": "Nada na vida deve ser temido, apenas compreendido. Agora é hora de compreender mais, para que possamos temer menos."
+  }, 
+  {
+    "author": "Martin Luther King",
+    "category": "inspiração",
+    "quote": "O que me preocupa não é o grito dos maus. É o silêncio dos bons."
+  }
+]
